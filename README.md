@@ -1,1 +1,1 @@
-# ife-note
+# life-note
